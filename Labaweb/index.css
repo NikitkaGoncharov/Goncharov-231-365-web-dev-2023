@@ -1,0 +1,55 @@
+/* Стилизация шапки */
+header {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.danger-block {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav p {
+  font-family: 'Lato', cursive;
+  color: white;
+  margin: 0;
+  padding: 10px;
+}
+
+/* Стилизация таблицы */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+/* Стилизация заголовков в <dt> */
+dt {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+/* Стилизация изображений */
+dd img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+/* Стилизация подвала */
+footer {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+  
