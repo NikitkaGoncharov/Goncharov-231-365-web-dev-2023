@@ -9,7 +9,7 @@ h1 {
 }
 
 .background-image {
-	background: url('Background3.jpg') no-repeat center center fixed;
+	background: url('desk.jpg') no-repeat center center fixed;
 	background-size: cover;
 	height: 100vh;
 	display: flex;
